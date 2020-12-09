@@ -1,0 +1,2 @@
+# sportspot
+public zone
